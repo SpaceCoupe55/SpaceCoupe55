@@ -1,3 +1,6 @@
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+TOB+%F0%9F%91%8B;A+Passionate+Software+Engineer;From+Outerspace;A+Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h2 align="left">Hi 👋! My name is TOB  and I'm a Passionate Software Engineer from  Outerspace <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" /></h2>
 
 ###
