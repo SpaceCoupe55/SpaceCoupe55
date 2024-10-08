@@ -32,8 +32,8 @@
 ###
 ### 🎖 &nbsp;My Badges 
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
+### [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![An image of @spacecoupe55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spacecoupe55)](https://holopin.io/@spacecoupe55)
 
 <br clear="both">
 
